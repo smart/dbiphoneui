@@ -1,0 +1,4696 @@
+
+
+Processing ApplicationController#dashboard (for 127.0.0.1 at 2010-03-13 10:57:33) [GET]
+
+LoadError (Expected /Users/smartocci/Personal/git/sabre_ui/app/controllers/test_controller.rb to define TestController):
+  
+
+Rendered rescues/_trace (26.2ms)
+Rendered rescues/_request_and_response (1.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 61ms (View: 60, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/base.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/rho.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/application.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/iphone.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/iphone.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 10:57:50) [GET]
+
+ActionController::RoutingError (No route matches "/public/themes/jqt/theme.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/application.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/iphone.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/base.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/rho.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+
+ActionController::RoutingError (No route matches "/public/themes/jqt/theme.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:00:36) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/base.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/rho.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/application.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/iphone.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:14) [GET]
+
+ActionController::RoutingError (No route matches "/public/themes/jqt/theme.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/application.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/iphone.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/rho.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/base.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+
+ActionController::RoutingError (No route matches "/public/themes/jqt/theme.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:56) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/rho.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/iphone.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/base.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/application.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+
+ActionController::RoutingError (No route matches "/public/themes/jqt/theme.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:01:57) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/base.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/rho.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/application.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/iphone.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/application.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/iphone.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:01) [GET]
+
+ActionController::RoutingError (No route matches "/public/themes/jqt/theme.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:02:14) [GET]
+  Parameters: {"dsfds"=>nil}
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard?dsfds]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:15) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/base.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:15) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/rho.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:15) [GET]
+
+ActionController::RoutingError (No route matches "/public/js/application.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:15) [GET]
+
+ActionController::RoutingError (No route matches "/public/css/iphone.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:15) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:15) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:15) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:15) [GET]
+
+ActionController::RoutingError (No route matches "/public/jqtouch/jqtouch.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:15) [GET]
+
+ActionController::RoutingError (No route matches "/public/themes/jqt/theme.min.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:02:36) [GET]
+  Parameters: {"dsfds"=>nil}
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard?dsfds]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:36) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:36) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:36) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:40) [GET]
+
+ActionController::RoutingError (No route matches "/app/Show/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:02:45) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:45) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:02:45) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:05:13) [GET]
+  Parameters: {"dsfds"=>nil}
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard?dsfds]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:05:13) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:05:13) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:05:13) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:05:14) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:05:20) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:05:20) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:05:20) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:05:21) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:05:21) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:05:21) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#index (for 127.0.0.1 at 2010-03-13 11:05:29) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:05:38) [GET]
+
+ActionController::RoutingError (No route matches "/t" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#index (for 127.0.0.1 at 2010-03-13 11:05:52) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:06:14) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:14) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:14) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:06:16) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:16) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:16) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:06:17) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:17) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:17) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:06:18) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 10ms (View: 3, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:18) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:18) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:06:19) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:19) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:06:19) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:07:08) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:09) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:09) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:07:10) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:10) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:10) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:07:10) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:10) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:10) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:07:11) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:11) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:11) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:07:11) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:11) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:07:11) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:09:20) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:09:20) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:09:20) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:09:33) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:09:33) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:09:41) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:09:41) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:09:41) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:09:41) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:09:42) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 11:19:31) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:19:31) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:19:31) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:19:32) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 11:19:32) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:07:18) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:07:18) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:07:18) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:18:48) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:18:48) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:18:48) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:18:48) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:18:48) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:33:33) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:33:33) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.sliding.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:33:33) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:44:59) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 67ms (View: 65, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:44:59) [GET]
+
+ActionController::RoutingError (No route matches "/extentions/scrolling.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:44:59) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.scrolling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:44:59) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jqt.scrolling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:44:59) [GET]
+
+ActionController::RoutingError (No route matches "/extentions/scrolling.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:45:41) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:45:41) [GET]
+
+ActionController::RoutingError (No route matches "/extentions/jqt.scrolling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:45:41) [GET]
+
+ActionController::RoutingError (No route matches "/extentions/scrolling.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:46:21) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:46:22) [GET]
+
+ActionController::RoutingError (No route matches "/extentions/jqt.scrolling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:46:22) [GET]
+
+ActionController::RoutingError (No route matches "/extentions/scrolling.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:46:22) [GET]
+
+ActionController::RoutingError (No route matches "/extentions/jqt.scrolling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:46:22) [GET]
+
+ActionController::RoutingError (No route matches "/extentions/scrolling.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:48:09) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:50:01) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 59ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:51:50) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:51:50) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:51:50) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:51:56) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:51:56) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:51:56) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:51:56) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:52:45) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:52:45) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:52:45) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 13:52:45) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:53:05) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 13:53:31) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:01:25) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:01:25) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:01:25) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:01:25) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:03:37) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:03:37) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:03:37) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:03:37) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:07:09) [GET]
+
+ActionController::RoutingError (No route matches "/demos/jqtouch.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:10:56) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:10:56) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:10:56) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:10:56) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:11:43) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:12:18) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:13:52) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:14:34) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:15:01) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:16:05) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:16:17) [GET]
+
+ActionController::RoutingError (No route matches "/demos/jqtouch.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:17:49) [GET]
+
+ActionController::RoutingError (No route matches "/demos/jqtouch.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:18:18) [GET]
+
+ActionController::RoutingError (No route matches "/app/Show/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:18:20) [GET]
+
+ActionController::RoutingError (No route matches "/demos/jqtouch.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:19:06) [GET]
+
+ActionController::RoutingError (No route matches "/demos/jqtouch.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:19:28) [GET]
+
+ActionController::RoutingError (No route matches "/demos/jqtouch.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:19:53) [GET]
+
+ActionController::RoutingError (No route matches "/app/Show/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:20:01) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:20:07) [GET]
+
+ActionController::RoutingError (No route matches "/app/Show/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:20:47) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:21:05) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:21:05) [GET]
+
+ActionController::RoutingError (No route matches "/test/jqtouch.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:21:05) [GET]
+
+ActionController::RoutingError (No route matches "/test/jqt_startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:22:08) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 13ms (View: 12, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photos (for 127.0.0.1 at 2010-03-13 14:25:23) [GET]
+
+ActionController::UnknownAction (No action responded to photos. Actions: dashboard and photo):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:25:31) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 8ms (View: 5, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:31:51) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:38:10) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:38:41) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:40:33) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:40:33) [GET]
+
+ActionController::RoutingError (No route matches "/test/extensions/jqt.scaling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:42:21) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:42:21) [GET]
+
+ActionController::RoutingError (No route matches "/test/extensions/jqt.scaling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:44:09) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:44:09) [GET]
+
+ActionController::RoutingError (No route matches "/test/extensions/jqt.scaling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:44:55) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 10ms (View: 6, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:44:55) [GET]
+
+ActionController::RoutingError (No route matches "/test/extensions/jqt.scaling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:46:07) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:46:07) [GET]
+
+ActionController::RoutingError (No route matches "/test/extensions/jqt.scaling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:47:57) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:47:57) [GET]
+
+ActionController::RoutingError (No route matches "/test/extensions/jqt.scaling.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:48:39) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:51:12) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:51:37) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:52:09) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:52:20) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:52:59) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 14:53:26) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:55:28) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 14:55:28) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 14:55:46) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 15:11:41) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 16:28:00) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 43ms (View: 40, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 16:28:00) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 16:28:00) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 19:58:08) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 17ms (View: 10, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 19:58:47) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 456ms (View: 453, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 19:59:09) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 19:59:26) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 19:59:56) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:00:12) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:00:18) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:01:18) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 51ms (View: 49, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:01:23) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 24ms (View: 22, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:01:40) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:01:43) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:02:24) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:02:56) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:03:16) [GET]
+Rendering template within layouts/application
+Rendering test/photo
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:05:07) [GET]
+Rendering test/photo
+Completed in 22ms (View: 19, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:05:15) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:05:17) [GET]
+Rendering test/photo
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:06:40) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:06:42) [GET]
+Rendering test/photo
+Completed in 27ms (View: 25, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:07:46) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:07:47) [GET]
+Rendering test/photo
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:08:01) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:08:02) [GET]
+Rendering test/photo
+Completed in 36ms (View: 34, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:08:49) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:08:51) [GET]
+Rendering test/photo
+Completed in 63ms (View: 57, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:09:25) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 10ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:09:28) [GET]
+Rendering test/photo
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:10:08) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 20:10:09) [GET]
+
+ActionController::RoutingError (No route matches "/app/Show/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:10:11) [GET]
+Rendering test/photo
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:11:18) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:11:20) [GET]
+Rendering test/photo
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:11:45) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:11:47) [GET]
+Rendering test/photo
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:12:12) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 20:12:15) [GET]
+Rendering test/photo
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:14:09) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:15:53) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:16:15) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:17:03) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:24:50) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:25:22) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:25:44) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:25:49) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:26:34) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 20:26:34) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 20:26:34) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 20:26:34) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:28:17) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 54ms (View: 53, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:31:13) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:32:38) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 20:33:01) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:28:07) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:28:57) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 21:28:57) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 21:28:57) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 21:28:57) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:31:23) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 21:31:23) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 21:31:23) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 21:31:23) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:31:31) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:32:53) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:33:07) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 100ms (View: 99, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 21:33:07) [GET]
+
+ActionController::RoutingError (No route matches "/jqtouch/jquery.1.3.2.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:33:29) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:33:31) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:36:35) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:40:16) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:41:56) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:42:05) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:42:18) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:48:03) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:48:55) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 21:49:02) [GET]
+
+ActionController::RoutingError (No route matches "/app/Show/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:50:08) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 21:50:10) [GET]
+Rendering test/photo
+Completed in 21ms (View: 20, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 21:52:10) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 21:52:11) [GET]
+Rendering test/photo
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:09:11) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:09:11) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:09:11) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:09:11) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:09:12) [GET]
+
+ActionController::RoutingError (No route matches "/app/Show/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 23:09:13) [GET]
+Rendering test/photo
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:09:59) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:09:59) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:09:59) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:09:59) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:23:57) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:23:58) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:23:58) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:23:58) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:24:22) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:24:22) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:24:22) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:24:23) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:24:38) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:24:38) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:24:38) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:24:38) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:26:15) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:26:15) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:26:15) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:26:15) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:36:43) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:36:43) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:36:43) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:36:43) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 23:36:46) [GET]
+Rendering test/photo
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:36:52) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:37:56) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:37:56) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:37:56) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:37:56) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 23:37:57) [GET]
+Rendering test/photo
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:40:21) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:40:21) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:40:21) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:40:21) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 23:40:22) [GET]
+Rendering test/photo
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:43:35) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:43:44) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:43:44) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:43:44) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:43:44) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:43:45) [GET]
+
+ActionController::RoutingError (No route matches "/app/Show/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-13 23:43:46) [GET]
+Rendering test/photo
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:43:53) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:43:53) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:43:53) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:43:53) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-13 23:47:31) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:47:31) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:47:31) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-13 23:47:31) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:09:10) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:11:17) [GET]
+
+ActionController::RoutingError (No route matches "/app/Show/1" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:11:33) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:11:39) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:11:39) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:14:18) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-14 04:14:47) [GET]
+Rendering test/photo
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:15:02) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:16:21) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:18:21) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:18:22) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:18:22) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:18:22) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:18:49) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:18:49) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:18:49) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:18:49) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:19:21) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:23:30) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:23:30) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:23:30) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 04:23:30) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 04:23:44) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 14:39:51) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 124ms (View: 123, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:39:51) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:39:51) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:39:51) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 14:40:30) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:40:30) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:40:30) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:40:30) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:40:30) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 225ms (View: 202, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 14:40:54) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:40:54) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:40:54) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:40:54) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:40:55) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 14:41:22) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:41:22) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:41:22) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:41:22) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:41:22) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 14:41:43) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:41:43) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:41:43) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 14:41:43) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-14 14:41:44) [GET]
+Rendering test/photo
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:41:48) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:42:34) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:44:37) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:44:46) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:45:10) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:46:03) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 14:46:03) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:07:55) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:08:19) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:08:31) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:09:33) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:09:33) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:09:33) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:09:33) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:09:34) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:09:45) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:09:45) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:09:46) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:09:46) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:09:46) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:10:08) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:10:08) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:10:08) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:10:08) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#photo (for 127.0.0.1 at 2010-03-14 15:10:09) [GET]
+Rendering test/photo
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/photo]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:10:16) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:10:16) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:10:16) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:10:16) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:10:18) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:10:46) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:10:46) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:10:46) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:10:46) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:10:47) [GET]
+Rendering template within layouts/application
+Rendering test/show
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:11:37) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:11:37) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:11:37) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:11:37) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:11:38) [GET]
+Rendering test/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:14:03) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:14:04) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:14:04) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:14:04) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:14:04) [GET]
+Rendering test/show
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#livedownload (for 127.0.0.1 at 2010-03-14 15:14:08) [GET]
+
+ActionController::UnknownAction (No action responded to livedownload. Actions: dashboard, photo, and show):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#SetList (for 127.0.0.1 at 2010-03-14 15:16:26) [GET]
+
+ActionController::UnknownAction (No action responded to SetList. Actions: dashboard, photo, and show):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:17:10) [GET]
+Rendering test/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:18:55) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:18:55) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:18:55) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:18:55) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 15:18:56) [GET]
+Rendering template within layouts/application
+Rendering test/upcoming
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:19:27) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:19:27) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:19:27) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:19:27) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 15:19:28) [GET]
+Rendering test/upcoming
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:20:29) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:20:29) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:20:29) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:20:29) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 15:20:30) [GET]
+Rendering test/upcoming
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:21:02) [GET]
+Rendering test/show
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:23:20) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:23:20) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:23:20) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:23:20) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:23:21) [GET]
+Rendering test/show
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:24:11) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:24:12) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:24:12) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:24:12) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:24:13) [GET]
+Rendering test/show
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 15:24:51) [GET]
+Rendering test/upcoming
+Completed in 2ms (View: 0, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:27:30) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:29:06) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:29:21) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:31:56) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#Guide (for 127.0.0.1 at 2010-03-14 15:32:12) [GET]
+
+ActionController::UnknownAction (No action responded to Guide. Actions: dashboard, photo, show, and upcoming):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:32:49) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:32:49) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:32:49) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:32:49) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:33:47) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:33:47) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:33:47) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:33:47) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:35:09) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:35:09) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:35:09) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:35:09) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 15:36:04) [GET]
+Rendering test/upcoming
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:36:09) [GET]
+Rendering test/show
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#news (for 127.0.0.1 at 2010-03-14 15:36:11) [GET]
+
+ActionController::UnknownAction (No action responded to news. Actions: dashboard, photo, show, and upcoming):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:36:24) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:36:25) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:36:25) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:36:25) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:36:58) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 212ms (View: 211, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:36:58) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:36:58) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:36:58) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:37:09) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:37:09) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:37:09) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:37:09) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:37:57) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:37:57) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:37:57) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:37:57) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:38:03) [GET]
+Rendering test/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#news (for 127.0.0.1 at 2010-03-14 15:38:05) [GET]
+
+ActionController::UnknownAction (No action responded to news. Actions: dashboard, photo, show, and upcoming):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#news (for 127.0.0.1 at 2010-03-14 15:38:06) [GET]
+
+ActionController::UnknownAction (No action responded to news. Actions: dashboard, photo, show, and upcoming):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:38:27) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:38:27) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:38:27) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:38:27) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#news (for 127.0.0.1 at 2010-03-14 15:38:28) [GET]
+
+ActionController::UnknownAction (No action responded to news. Actions: dashboard, photo, show, and upcoming):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:39:17) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:39:17) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:39:17) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:39:17) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:39:19) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:39:32) [GET]
+Rendering test/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 15:39:36) [GET]
+Rendering test/upcoming
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#Guide (for 127.0.0.1 at 2010-03-14 15:39:40) [GET]
+
+ActionController::UnknownAction (No action responded to Guide. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:39:46) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 15:39:48) [GET]
+Rendering test/upcoming
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:39:51) [GET]
+Rendering test/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:39:56) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:39:56) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:39:56) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:39:56) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 15:39:58) [GET]
+Rendering test/upcoming
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:40:00) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:48:32) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:48:33) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:48:33) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:48:33) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#show (for 127.0.0.1 at 2010-03-14 15:48:36) [GET]
+Rendering test/show
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/show]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:49:13) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:49:13) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:49:13) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:49:13) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 15:49:14) [GET]
+Rendering test/guide
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#current_tour (for 127.0.0.1 at 2010-03-14 15:50:09) [GET]
+
+ActionController::UnknownAction (No action responded to current_tour. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#tours (for 127.0.0.1 at 2010-03-14 15:50:10) [GET]
+
+ActionController::UnknownAction (No action responded to tours. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:50:15) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:50:15) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:50:15) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:50:15) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 15:50:16) [GET]
+Rendering test/guide
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#current_tour (for 127.0.0.1 at 2010-03-14 15:52:36) [GET]
+
+ActionController::UnknownAction (No action responded to current_tour. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:52:40) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:52:40) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:52:40) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:52:40) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 15:52:41) [GET]
+Rendering test/guide
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:55:00) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:55:00) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:55:00) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:55:01) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:55:20) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:55:20) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:55:20) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:55:20) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 15:55:32) [GET]
+Rendering test/guide
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:55:44) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:55:44) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:55:44) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:55:44) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 15:55:47) [GET]
+Rendering test/guide
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:57:00) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:57:00) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:57:00) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:57:00) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 15:57:01) [GET]
+Rendering test/guide
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#tours (for 127.0.0.1 at 2010-03-14 15:57:47) [GET]
+
+ActionController::UnknownAction (No action responded to tours. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:58:46) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:58:46) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:58:46) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:58:46) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 15:58:47) [GET]
+Rendering test/guide
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 15:59:30) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:59:30) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:59:30) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 15:59:30) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 15:59:31) [GET]
+Rendering test/guide
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 16:00:15) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:00:15) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:00:15) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:00:15) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 16:00:16) [GET]
+Rendering test/guide
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 16:00:46) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:00:46) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:00:46) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:00:46) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 16:00:47) [GET]
+Rendering test/guide
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#tours (for 127.0.0.1 at 2010-03-14 16:03:03) [GET]
+
+ActionController::UnknownAction (No action responded to tours. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 16:08:48) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 16:09:04) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:09:04) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:09:04) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:09:04) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 16:09:05) [GET]
+Rendering test/guide
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#songs (for 127.0.0.1 at 2010-03-14 16:09:16) [GET]
+
+ActionController::UnknownAction (No action responded to songs. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 16:11:51) [GET]
+Rendering test/upcoming
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#news (for 127.0.0.1 at 2010-03-14 16:11:58) [GET]
+
+ActionController::UnknownAction (No action responded to news. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 16:12:16) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing TestController#dashboard (for 127.0.0.1 at 2010-03-14 16:12:24) [GET]
+Rendering template within layouts/application
+Rendering test/dashboard
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/dashboard]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:12:24) [GET]
+
+ActionController::RoutingError (No route matches "/test/startup.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:12:24) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon-precomposed.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:12:24) [GET]
+
+ActionController::RoutingError (No route matches "/apple-touch-icon.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#guide (for 127.0.0.1 at 2010-03-14 16:12:36) [GET]
+Rendering test/guide
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/guide]
+
+
+Processing TestController#news (for 127.0.0.1 at 2010-03-14 16:12:39) [GET]
+
+ActionController::UnknownAction (No action responded to news. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#media (for 127.0.0.1 at 2010-03-14 16:12:41) [GET]
+
+ActionController::UnknownAction (No action responded to media. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#current (for 127.0.0.1 at 2010-03-14 16:12:43) [GET]
+
+ActionController::UnknownAction (No action responded to current. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#last (for 127.0.0.1 at 2010-03-14 16:12:45) [GET]
+
+ActionController::UnknownAction (No action responded to last. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming_concerts (for 127.0.0.1 at 2010-03-14 16:12:45) [GET]
+
+ActionController::UnknownAction (No action responded to upcoming_concerts. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#tours (for 127.0.0.1 at 2010-03-14 16:12:46) [GET]
+
+ActionController::UnknownAction (No action responded to tours. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#concerts (for 127.0.0.1 at 2010-03-14 16:12:47) [GET]
+
+ActionController::UnknownAction (No action responded to concerts. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#tours (for 127.0.0.1 at 2010-03-14 16:13:20) [GET]
+
+ActionController::UnknownAction (No action responded to tours. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming_concerts (for 127.0.0.1 at 2010-03-14 16:13:22) [GET]
+
+ActionController::UnknownAction (No action responded to upcoming_concerts. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-14 16:14:15) [GET]
+
+ActionController::RoutingError (No route matches "/Settings/about" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming (for 127.0.0.1 at 2010-03-14 16:14:17) [GET]
+Rendering test/upcoming
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/test/upcoming]
+
+
+Processing TestController#news (for 127.0.0.1 at 2010-03-14 16:14:24) [GET]
+
+ActionController::UnknownAction (No action responded to news. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#current (for 127.0.0.1 at 2010-03-14 16:14:26) [GET]
+
+ActionController::UnknownAction (No action responded to current. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#last (for 127.0.0.1 at 2010-03-14 16:14:27) [GET]
+
+ActionController::UnknownAction (No action responded to last. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#upcoming_concerts (for 127.0.0.1 at 2010-03-14 16:14:27) [GET]
+
+ActionController::UnknownAction (No action responded to upcoming_concerts. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing TestController#news (for 127.0.0.1 at 2010-03-14 16:15:05) [GET]
+
+ActionController::UnknownAction (No action responded to news. Actions: dashboard):
+  
+
+Rendering rescues/layout (not_found)
