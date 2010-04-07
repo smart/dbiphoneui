@@ -1,7 +1,7 @@
 class TestController < ApplicationController
   layout false
   def dashboard
-    render "test/dashboard", :layout => "application"
+    render "biscuits/dashboard", :layout => "application"
   end
 
 end
